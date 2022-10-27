@@ -1,6 +1,6 @@
 {
   "name": "@neiderruiz/react-native-modal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This is wrapper class in react-native build on top of react-native-modal that handles multiple independent modal opening one after the other.",
   "main": "src/index.js",
   "scripts": {
