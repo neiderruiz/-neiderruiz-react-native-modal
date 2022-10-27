@@ -1,0 +1,32 @@
+{
+  "name": "@neiderruiz/react-native-modal",
+  "version": "0.1.1",
+  "description": "This is wrapper class in react-native build on top of react-native-modal that handles multiple independent modal opening one after the other.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<git_repo_url>"
+  },
+  "author": "Neider Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-modal": "13.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "modal",
+    "iOS",
+    "react-native-modal",
+    "neiderruiz"
+  ]
+}
